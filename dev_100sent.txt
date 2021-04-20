@@ -1,0 +1,100 @@
+April 1806 ersetzte ein neues Gesetz den geschäftsführenden Ausschuss durch einen Gouverneur und zwei Stellvertreter . 	8:9	/government /government/government
+April 1806 ersetzte ein neues Gesetz den geschäftsführenden Ausschuss durch einen Gouverneur und zwei Stellvertreter . 	11:12	/title /person /person/politician
+Die Investoren waren Polaris Ventures , True Ventures , Radar Partners und CNET . 	1:2	/organization /organization/company
+Die Investoren waren Polaris Ventures , das Filmmusikstudio , Radar Partners und CNET . 	7:8	/organization /organization/company
+Die Investoren waren Polaris Ventures , True Ventures , das Unternehmen und CNET . 	10:11	/organization /organization/company
+Die Investoren waren Polaris Ventures , True Ventures , Radar Partners und das Medienunternehmen . 	13:14	/organization /organization/company 
+Der Schriftsteller wurde vor Beginn seiner Rede zunächst aus dem Publikum ausgepfiffen . 	1:2	/person /person/author
+Hauptfigur ist die jüngste Tochter Ursel , siebzehn , soeben aus der Schule und Annemarie sehr ähnlich . 	4:5	/person
+Hauptfigur ist die jüngste Tochter Ursel , siebzehn , soeben aus der Schule und Annemarie sehr ähnlich . 	12:13	/building
+Beide Alben wurden von Sänger nahezu im Alleingang eingespielt . 	4:5	/person /person/musician
+Die Unterkunft ist ein kleines Hostel und Restaurant , benannt nach dem Berg . 	1:2	/location /building
+Somit wurde 1980 die Eurogroup for Animals als erste Koalition von Tierschutzgruppen auf europäischer Ebene gegründet . 	9:10	/organization
+Somit wurde 1980 die Eurogroup for Animals als erste Koalition von Tierschutzgruppen auf europäischer Ebene gegründet . 	11:12	/organization
+Jüngere Mitglieder des Bergsteigervereins E.O.S. Thessaloniki setzten die Idee um ; eine Laufstrecke wurde ausgewählt , die Pfade wurden gereinigt und gekennzeichnet . 	3:4	/organization
+Jüngere Mitglieder des Bergsteigervereins E.O.S. Thessaloniki setzten die Idee um ; eine Laufstrecke wurde ausgewählt , die Pfade wurden gereinigt und gekennzeichnet . 	1:2	/person
+Der Trapper trifft auf Johnson und versucht ihn zu töten , vermutlich , um die Belohnung einstreichen zu können . 	1:2	/person
+Luce trifft auf den Mann und versucht ihn zu töten , vermutlich , um die Belohnung einstreichen zu können . 	4:5	/person
+Es gab später weitere große Überschwemmungen , besonders die vom Juli 1900 und vom März 1914 . 	5:6	/event /event/natural_disaster
+Es gab später weitere große Überschwemmungen , besonders die vom Juli 1900 und vom März 1914 . 	14:15	/event /time
+Preis auf nationaler Ebene in dem Land . 	6:7	/location /location/country
+Zwischen 1989 und 1990 waren 243.183 Menschen im Zusammenhang mit Prostitution beschäftigt . 	6:7	/person
+In diesem Kontext bezieht sich Immanuel als Name auf Christus . 	9:10	/god
+Ausführliche Beschreibungen gibt es seit 1859 . 	1:2	/written_work
+Derzeit hält der Kunststoffhersteller einen Anteil von 77,4 % an Rosier . 	3:4	/organization /organization/company
+Derzeit hält Borealis einen Anteil von 77,4 % am Unternehmen . 	9:10	/organization /organization/company
+Der Schauspieler erstellte ein professionelles Programm , welches auf technischer und langwieriger Ausbildung sowie hohen Standards aufbaute . 	1:2	/person /person/actor
+Mai 1910 besuchte Spreiter das Lager , wo er sich mit Hennig traf . 	5:6	/location
+Mai 1910 besuchte der Bischof das Lager , wo er sich mit Hennig traf . 	4:5	/person /person/religious_leader
+Mai 1910 besuchte Spreiter das Lager , wo er sich mit dem Paläontologen traf . 	12:13	/person
+Seit dem Jahr 1947 befindet sich Radio Belgrad im Gebäude . 	9:10	/building
+Seit dem Jahr 1947 befindet sich Radio Belgrad im Gebäude . 	6:7	/broadcast_network
+Der Irrtum resultiert womöglich daraus , das beide Schauspieler eine geborene Tilly zur Frau hatten . 	8:9	/person /person/actor
+Der Irrtum resultiert womöglich daraus , das beide Scholz eine geborene Tilly zur Frau hatten . 	13:14	/person
+Aufgrund der eingeschränkten Wasserversorgung ist es wahrscheinlich , dass das Schloss nur für eine vorübergehende Nutzung vorgesehen war . 	10:11	/building
+Die heutige Kirche stammt in ihren wesentlichen Teilen aus dem Jahre 1386 . 	9:12	/building
+An der Strombörse finden täglich drei Stundenauktionen für drei Marktgebiete statt : Deutschland / Österreich , Frankreich und Schweiz . 	2:3	/organization /organization/company
+Als Spieler der Ngurumi , eines zweisaitigen Zupfinstruments , erreichte er Popularität in seinem Heimatland und im benachbarten Nigeria . 	7:8	/music
+Als Spieler der Ngurumi , eines zweisaitigen Zupfinstruments , erreichte er Popularität in seinem Heimatland und im benachbarten Nigeria . 	14:15	/location /location/country 
+Zudem hob sie den Auftritt des Schauspielers als ein Kernstück für den Erfolg des Films hervor . 	6:7	/person /person/actor
+Interviews aus der Baustelle wurden in den akademischen Zeitschriften Global Studies of Childhood und Voluntaris veröffentlicht . 	8:9	/written_work
+Interviews aus der Baustelle wurden in den akademischen Zeitschriften Global Studies of Childhood und Voluntaris veröffentlicht . 	0:1	/written_work
+Das gotische Figurenportal in Frankreich : Studien zur Geschichte der französischen Portalskulptur von Chartres West bis zum Reimser Josephsmeister . 	11:12	/art
+Die Idee begann damit , die Programmierungserfahrung von Capital Radio zu nutzen , um Disney dabei zu helfen , einen Radiosender im Vereinigten Königreich zu starten . 	9:10	/broadcast_network
+Die Idee begann damit , die Programmierungserfahrung von Capital Radio zu nutzen , um dem Medienunternehmen dabei zu helfen , einen Radiosender im Vereinigten Königreich zu starten . 	15:16	/organization /organization/company 
+Die Idee begann damit , die Programmierungserfahrung von Capital Radio zu nutzen , um Disney dabei zu helfen , einen Radiosender im Vereinigten Königreich zu starten . 	22:24	/broadcast_network
+Seine Leiche wurde am nächsten Morgen von dem Mann gefunden , der ihn besuchen wollte , um an ihrem gemeinsamen Buch zu arbeiten . 	8:9	/person
+Während den beiden Weltkriegen , wurde das Rennen in Newmarket unter dem Namen New Oaks Stakes gelaufen . 	3:4	/event /event/military_conflict
+Während den beiden Weltkriegen , wurde das Rennen in Newmarket unter dem Namen New Oaks Stakes gelaufen . 	7:8	/event /event/sports_event
+Der Garten bietet viele seltene Bäume und Pflanzen , von denen der Industrielle einige nach Hause gebracht hatte . 	12:13	/person
+Die restlichen 4,83 Kilometer führen von der Stadt nach Landsberg am Lech . 	7:8	/location /location/city
+Die restlichen 4,83 Kilometer führen von Kaufering zur Kreisstadt . 	8:9	/location /location/city
+Die südwestlichste Keuperschichtstufe im Bereich der Hochebene hat aufgrund ihres geringen Umfangs keinen eigenen Namen . 	6:7	/geography
+Auch amerikanische Hutterer und deutsche Bruderhöfer wurden aufmerksam . 	1:2	/people /people/ethnicity
+Auch amerikanische Hutterer und deutsche Bruderhöfer wurden aufmerksam . 	4:5	/people /people/ethnicity
+Der Museumsdirektor hatte bereits im Vorfeld dessen 1931 seine Meinung geändert . 	1:2	/person
+Schuchhardt hatte bereits im Vorfeld dessen in diesem Jahr seine Meinung geändert . 	8:9	/event /time
+So arbeitete man auch zwischen den beiden Weltkriegen an der Verbesserung des Fährbetriebs . 	7:8	/event /event/military_conflict
+Später kündigte die Sängerin an sie wird sich den Freiwilligen vor dem Konzert anschließen , um lokale Arbeit in der Community zu tun . 	3:4	/person /person/musician
+Dieser Begriff wird nicht direkt in der Lizenz erwähnt . 	7:8	/written_work
+Ihre gegenseitigen Briefe sind in dem Buch Letters from a Lost Generation dokumentiert . 	6:7	/written_work
+Neben der Einführung des Christentums schafften die niederländischen Kolonialherren die Sklaverei ab und verhängten lokalen Steuern . 	4:5	/religion /religion/religion 
+Neben der Einführung des Christentums schafften die niederländischen Kolonialherren die Sklaverei ab und verhängten lokalen Steuern . 	7:8	/people /people/ethnicity
+Es wurde die erfolgreichste Nachkriegsproduktion für den Tänzer . 	7:8	/person /person/artist
+Drei italienische Immigranten gründeten zu dieser Zeit die Prince Macaroni Company , die bis heute ein Beispiel der erfolgreichen Gründungen im North End darstellt . 	1:2	/people /people/ethnicity
+Drei italienische Immigranten gründeten zu dieser Zeit die Prince Macaroni Company , die bis heute ein Beispiel der erfolgreichen Gründungen im North End darstellt . 	7:11	/person
+Drei italienische Immigranten gründeten zu dieser Zeit die Prince Macaroni Company , die bis heute ein Beispiel der erfolgreichen Gründungen in dem Stadtteil darstellt . 	22:23	/location
+Sowohl der Sportverband, als auch die FIFA würdigten das erfolgreiche Wirken von Kapl als Fußballschiedsrichter und vor allem als Fußballfunktionär . 	2:3	/organization /organization/sports_league
+Sowohl die UEFA , als auch die FIFA würdigten das erfolgreiche Wirken von Kapl als Fußballschiedsrichter und vor allem als Fußballfunktionär . 	19:20	/person
+Sowohl die UEFA , als auch die FIFA würdigten das erfolgreiche Wirken des Fußballers als Fußballschiedsrichter und vor allem als Fußballfunktionär . 	13:14	/person /person/athlete
+Seine erste Frau , Maria Barnard , lieferte Zeichnungen der Vögel . 	2:3	/person
+Sie wurde als Ersatz für das Model engagiert , nachdem deren Dreimonatsvertrag abgelaufen war . 	6:7	/person
+Sie wurde später durch einen als Kronk Cabin bekannten Bau ersetzt . 	9:10	/building
+Der Regisseur fokussiert weniger auf die psychologischen Motivationsprozesse der individuellen Figuren als auf das resultierende Gemeinschaftsgefühl . 	1:2	/person /person/director
+Die Bahnanbindung der Stadt wird zurzeit durch große Bauprojekte , insbesondere im Rahmen der Verkehrsprojekte Deutsche Einheit , stark verbessert . 	3:4	/location /location/city
+Die Vorstände hatten die letztendliche Kontrolle über das gesamte Leben der Aborigines . 	1:2	/government_agency
+Agenturprofil bei der Agentur Windhuis Köln . 	5:6	/organization /organization/company
+Der König marschierte mit einer Armee heran , die als eine der größten und am besten ausgestatteten der Zeit galt . 	1:2	/person /person/monarch
+Auch bei späteren Reisen vermehrte er seine Sammlung von Kopien und veröffentlichte 1860 dazu sogar einen Katalog . 	3:4	/event
+Das war , bevor der Bruder die Führung übernahm und begann , Waffen zu verkaufen . 	5:6	/person
+Der Weinanbau an der deutschen Mosel ist seit Jahrzehnten rückläufig . 	4:5	/location /location/country
+Der Weinanbau an dem Fluss ist seit Jahrzehnten rückläufig . 	4:5	/location /location/body_of_water
+Der Weinanbau an der deutschen Mosel ist seit Jahrzehnten rückläufig . 	8:9	/time
+Ein Investor aus Großbritannien übernahm es , musste jedoch im Jahr 2010 wieder aufgeben . 	1:2	/person
+Die Firma ist einer der weltweit führenden Lieferanten von Silicium und Mikrosilica . 	1:2	/organization /organization/company
+Der Mann muss nun Georges ablösen und ein Jahr lang als Fuhrmann des Todes dienen . 	1:2	/person 
+David muss nun seinen Freund ablösen und ein Jahr lang als Fuhrmann des Todes dienen . 	4:5	/person
+Als Gründungsmitglied von Ace of Base hat Berggren alle ihre Hits geschrieben , zum Beispiel All That She Wants , The Sign , und Beautiful Life . 	1:2	/person
+Als Gründungsmitglied von Ace of Base hat die Sängerin alle ihre Hits geschrieben , zum Beispiel All That She Wants , The Sign , und Beautiful Life . 	8:9	/person /person/artist
+Im Dorf fanden sie Elizabeth Stewart , die Frau , die beim Überfall auf das Versorgungsboot auf dem Apalachicola im November des Vorjahres verschleppt worden war . 	8:9	/person
+Im Dorf fanden sie Elizabeth Stewart , die Frau , die beim Überfall auf das Versorgungsboot auf dem Apalachicola im November des Vorjahres verschleppt worden war . 	12:13	/event
+Was jedoch auch immer ihr Wissen und Zugang war , scheint es , dass sie nicht in der Lage war , den Premierminister zu beeinflussen , aber selbst seine Weigerung , ihren Ehemann im Januar 1828 in das Kabinett zu bringen , konnte die Intimität des Trios nicht erschüttern . 	22:23	/person /person/politician
+Was jedoch auch immer ihr Wissen und Zugang war , scheint es , dass sie nicht in der Lage war , den Duke zu beeinflussen , aber selbst seine Weigerung , ihren Ehemann im Januar 1828 in das Kabinett zu bringen , konnte die Intimität des Trios nicht erschüttern . 	38:39	/government /government/government
+Die Schwester ist verheiratet mit Walter , der von Bill Bailey gespielt wird . 	1:2	/person 
+Die Rolle Jackie ist verheiratet mit dem Handwerker , der von Bill Bailey gespielt wird . 	7:8	/person 
+Die Rolle Jackie ist verheiratet mit Walter , der von dem Schauspieler gespielt wird . 	11:12	/person /person/actor
+Sein Amtsnachfolger auf Zypern war Theodoros , der Sohn seines Vorgängers . 	1:2	/person
+Sein Amtsnachfolger auf Zypern war Theodoros , der Sohn seines Vorgängers . 	8:9	/person 
+Er wählte die Frau . 	3:4	/person
+Die Porträts der Gouverneure , Statuen von berühmten Bürgern Georgias und historische Flaggen aus verschiedenen Kriegen werden im gesamten Capitol ausgestellt . 	3:4	/person /person/politician 
+Die Porträts der Gouverneure , Statuen von berühmten Bürgern Georgias und historische Flaggen aus verschiedenen Kriegen werden im gesamten Capitol ausgestellt . 	15:16	/event /event/military_conflct

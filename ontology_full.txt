@@ -1,0 +1,109 @@
+/art	Kunstwerk
+/astral_body	Himmelsobjekt
+/award	Preis
+/art/film	Movie,Filmvorführung,Film
+/biology	Biologie
+/body_part	Körperteil,Organ,Bestandteil des Körpers
+/broadcast	Sendeanstalt
+/broadcast/tv_channel	TV-Kanal
+/broadcast_network	Sendeanstalt,Radio
+/broadcast_program	Fernsehunterhaltung
+/building	Bauwerk,Gebäude
+/building/airport	Flughafen
+/building/hospital	Krankenhaus
+/building/library	Bücherei
+/building/restaurant	Lokal,Speisegaststätte
+/building/sports_facility	Arena,Sporthalle,Sportstudio
+/building/theater	Kultureinrichtung
+/chemistry	Verbindung
+/computer	Hardware,Software
+/computer/programming_language	Programmiersprache
+/disease	Krankheit
+/education	Bildung
+/education/department	Bildungswesen
+/education/educational_degree	Bildungsabschluss
+/event	Ereignis,Zeiteinheit
+/event/attack	Verbrechen
+/event/election	Wahl
+/event/military_conflict	Militäraktion,Feindseligkeit
+/event/natural_disaster	Naturkatastrophe
+/event/protest	Demo
+/event/sports_event	Turnier,Kampfspiel,Sportveranstaltung
+/finance	Vermögen,Umsatzsteigerung
+/finance/currency	Geldeinheit,Geld
+/food	Nahrungsmittelprodukt,Nahrung
+/game	Spielware
+/geography	Gegend
+/geography/island	 Insel
+/geography/mountain	Berg
+/god	Gott
+/government	Institution,soziale Gruppe,Staatsgebilde
+/government/political_party	Partei,politische Gruppe
+/government_agency	Institution
+/internet/website	Webpage
+/language	Sprache,Lehrfach
+/law	Regel,Gestz,Reform
+/living_thing	Tier,Einzeller,Pflanze
+/living_thing/animal	Tier
+/location	Ortschaft,Land,Gegend,Bauwerk,Gebäude,Aufenthaltsort
+/location/body_of_water	Wasser,Bucht
+/location/bridge	Brücke
+/location/cemetery	Begräbnisplatz
+/location/city	Stadt
+/location/country	Land
+/location/county	Bundesland,Bundesstaat,Verwaltungsgebiet
+/location/province	Provinz
+/medicine	medizinischer Artikel
+/medicine/drug	Therapeutikum,Heilmittel
+/medicine/medical_treatment	medizinische Versorgung
+/medicine/symptom	Beschwerde
+/metropolitan_transit/transit_line	Bahnlinie
+/metropolitan_transit	Verkehrsnetz
+/military	Militärfahrzeug,Aggressor
+/music	Musikstück,Musikform,Musikinstrument,Musikgruppe,Musik
+/news_agency	Nachrichtenagentur
+/organization	Organisation,Bündnis
+/organization/airline	Airline
+/organization/company	Unternehmen,wirtschaftliche Institution
+/organization/educational_institution	Schule,Universität,Institut
+/organization/fraternity_sorority	schlagende Verbindung
+/organization/sports_league	Liga
+/organization/sports_team	Mannschaft
+/park	Grünanlage,Park
+/people	Bürger,örtlich bestimmter Mensch
+/people/ethnicity	Kontinentalbürger
+/person	Mensch
+/person/actor	Schauspieler
+/person/architect	Architektin
+/person/artist	Kunstschaffender
+/person/athlete	Ballsportler,Wettbewerber,Sportler
+/person/author	Schriftsteller,Autor,Schreiber
+/person/coach	Trainer
+/person/director	Regisseur,künstlerischer Leiter
+/person/doctor	Arzt,Mediziner,Heilberufler
+/person/engineer	Ingenieur
+/person/monarch	Monarch
+/person/musician	Musiker,Instrumentalist
+/person/politician	Politiker,Präsident
+/person/religious_leader	geistlicher Mensch,Religionslehrer
+/person/soldier	Militärangehöriger
+/play	Vorführung
+/product	Produkt,Dienstleistung,Transportmittel
+/product/airplane	Luftfahrzeug
+/product/car	Motorfahrzeug
+/product/computer	Computer
+/product/instrument	Instrument
+/product/ship	Schiff
+/product/spacecraft	Raumfahrzeug
+/product/weapon	Waffe
+/rail	Schienenfahrzeug
+/rail/railway	Bahn
+/religion	Religion
+/software	Computerprogramm
+/time	Zeiteinheit
+/title	Titel
+/train	Schienenfahrzeug
+/transit	Transportmittel
+/transportation	Transportmittel
+/transportation/road	Straße
+/written_work	Text,Veröffentlichung,Druck-Erzeugnis,Plan

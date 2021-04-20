@@ -1,0 +1,300 @@
+Während der gesamten parlamentarischen Republik waren diese Fraktion eine der dominierenden Parteien im Kongress . 	7:8	/government /government/political_party /organization
+Während der gesamten parlamentarischen Republik waren die Konservativen eine der dominierenden Parteien im Kongress . 	13:14	/government /government/government
+Ein deutscher Ägyptologe : Der koptische Heiligenkalender . 	2:3	/person 
+Der Song war so bezeichnend für den Klang der Band von Woody Herman , dass diese Formation auch die Four Brothers Band benannt wurde . 	9:10	/person /person/musician
+Der Song war so bezeichnend für den Klang der Second Herd des Klarinettisten , dass diese Formation auch die Four Brothers Band benannt wurde . 	12:13	/person /person/musician
+In einem Interview präzisiert der Künstler seine Motivation und antwortet auf die Frage ob die RAF Opfer ihrer Ideologie wurde : Ja sicher . 	5:6	/person /person/artist
+In einem Interview präzisiert der Künstler seine Motivation und antwortet auf die Frage ob die Terrororganisation Opfer ihrer Ideologie wurde : Ja sicher . 	15:16	/military /organization
+Diese Zeitung war eine Tageszeitung in Nelson , British Columbia , die im Jahr 2010 eingestellt wurde . 	1:2	/written_work
+Die Nelson Tageszeitung war eine Tageszeitung in Nelson , British Columbia , die im Jahr 2010 eingestellt wurde . 	2:3	/written_work
+Die Nelson Daily News war eine Tageszeitung in einer Kleinstadt in British Columbia , die im Jahr 2010 eingestellt wurde . 	9:10	/location /location/city
+Die Nelson Daily News war eine Tageszeitung in Nelson in einer kanadische Provinz , die im Jahr 2010 eingestellt wurde . 	12:13	/location /location/province
+Die Nelson Daily News war eine Tageszeitung in Nelson , British Columbia , die in diesem Jahr eingestellt wurde . 	16:17	/event 
+Der Eishockeyspieler kündigte die Fortsetzung der Suche an . 	1:2	/person /person/athlete
+Nach der Trennung von der Partei wurde die FVdG zunehmend vom französischen Anarchismus und Syndikalismus beeinflusst . 	5:6	/government /government/political_party 
+Nach der Trennung von der SPD wurde die Partei zunehmend vom französischen Anarchismus und Syndikalismus beeinflusst . 	8:9	/government /government/political_party
+In der Resolution wird die Schaffung eines Obersten Nationalrats als Autoritätsquelle während der Übergangszeit begrüßt . 	10:11	/government /government/government
+Die Tutt Library der Universität hat mehrere experimentelle Anwendungen unter Verwendung von BIBFRAME erstellt . 	4:5	/organization /organization/educational_institution
+Die Bibliothek des Colorado College hat mehrere experimentelle Anwendungen unter Verwendung von BIBFRAME erstellt . 	1:2	/location
+Die Tutt Library des Colorado College hat mehrere experimentelle Anwendungen unter Verwendung von diesem Datenmodell erstellt . 	14:15	/software
+Sie war die zweite Frau des Politikers , der berüchtigt für seinen Jähzorn war . 	6:7	/person /person/politician
+Der erste Sohn wurde im Alter von 11 von einem Auto im Jahr 1919 in Chicago getötet . 	2:3	/person
+Der erste Sohn , Sylvester Smith , wurde im Alter von 11 von einem Auto im Jahr 1919 in Chicago getötet . 	9:10	/event 
+Der erste Sohn , Sylvester Smith , wurde im Alter von 11 von einem Auto in diesem Jahr in Chicago getötet . 	17:18	/event
+Der erste Sohn , Sylvester Smith , wurde im Alter von 11 von einem Auto im Jahr 1919 in der Stadt getötet . 	20:21	/location /location/city
+Eine Notiz auf der Rückseite benennt den Schlagersänger für eine Neufassung im Jahr 1820 . 	7:8	/person /person/musician
+Eine Notiz auf der Rückseite benennt Michael Luter , für eine Neufassung in diesem Jahr . 	14:15	/event
+So ging der Monarch ein Militärbündnis mit dem dänischen König ein . 	3:4	/person /person/monarch
+Später aber beschäftigte er sich selbst mit der Verbesserung seiner Felder und dem Neubau von seinem Schloss . 	16:17	/location /building
+1650 ist eine Gesetzesänderung zu einem Militärgesetz von diesem Jahr , welches dem Umgang mit Infiltration seitens der benachbarten arabischen Staaten diente . 	9:10	/event
+1650 ist eine Gesetzesänderung zu einem Militärgesetz von 1969 , welches dem Umgang mit Infiltration seitens der benachbarten arabischen Staaten diente . 	19:20	/government
+Drei weitere Gruppen folgten in diesem Monat . 	6:7	/event 
+Der Friedhof war von den Mönchen der Priorei der Stadt eingerichtet worden . 	9:10	/location
+Angesichts von Überfällen auf benachbarte Siedlungen führt der Häuptling seine Krieger auf einen Feldzug gegen die Orks in der Gegend , um den Frieden in der Region wiederherzustellen . 	8:9	/person /person/soldier
+Als der Vater getötet wurde , hinterließ er seine schwangere Frau . 	2:3	/person
+Die Mitglieder des Konvents entstammten allen Schichten der Gesellschaft , aber am zahlreichsten vertreten waren Anwälte . 	3:4	/organization
+Soweit solche Ereignisse in der heutigen Zeit beobachtet werden konnten , waren die entstandenen Schäden stets enorm und könnten bei einer Häufung weit schwerwiegendere Konsequenzen haben als eine Trockenheit . 	6:7	/event
+Die Hansestadt verpflichtete sich darin , nach Abschluss des allgemeinen Friedensvertrages alle besetzten Gebiete zu räumen . 	1:2	/location /location/city
+Die leistungsfähige Verkehrsachse soll nach der Fertigstellung eine wesentlich schnellere Anbindung an die übrige Region gewährleisten . 	14:15	/location /location/county
+Der Marineoffizier diente anschließend auf der HMS Duke und der HMS Victory . 	1:2	/person /person/soldier
+Raper diente anschließend auf dem Panzerkreuzer und der HMS Victory . 	5:6	/product /product/ship
+Raper diente anschließend auf der HMS Duke und dem Flaggschiff . 	9:10	/product /product/ship
+Die Anzahl der Körperschaftswälder in dem Land wird auf 60.000 geschätzt , bei einer durchschnittlichen Betriebsgröße von 38 Hektar . 	6:7	/location /location/country 
+Die Anzahl der Körperschaftswälder in Deutschland wird auf 60.000 geschätzt , bei einer durchschnittlichen Betriebsgröße von 38 Hektar . 	17:18	/location
+Die Wasserbehörde war eine der regionalen Wasserbehörden , die 1975 in Großbritannien geschaffen wurden , um alle Wasserverwaltungsaufgaben einer Region in einer Behörde zusammenzufassen . 	1:2	/organization /government_agency
+Die Thames Water Authority war eine der regionalen Wasserbehörden , die 1975 in Großbritannien geschaffen wurden , um alle Wasserverwaltungsaufgaben einer Region in einer Behörde zusammenzufassen . 	8:9	/organization /government_agency
+Die Thames Water Authority war eine der regionalen Wasserbehörden , die 1975 in diesem Land geschaffen wurden , um alle Wasserverwaltungsaufgaben einer Region in einer Behörde zusammenzufassen . 	14:15	/location /location/country
+Die Thames Water Authority war eine der regionalen Wasserbehörden , die in diesem Jahr in Großbritannien geschaffen wurden , um alle Wasserverwaltungsaufgaben einer Region in einer Behörde zusammenzufassen . 	13:14	/event
+Zudem zahlt jedes Communitymitglied eine Monatsgebühr an Sonnen . 	7:8	/finance /finance/currency
+Produzent : Lobby Loyde . 	0:1	/organization /organization/company
+Gründung des Vereins mit 116 Gründungsmitgliedern . 	0:3	/event
+Gründung des Vereins mit 116 Gründungsmitgliedern . 	5:6	/person
+Ältere Beamte des Bildungsministeriums erkennen an , dass die Institute eine wichtige Rolle bei der Förderung der Alphabetisierung in asiatischen Sprachen spielen , sie geben zu , dass sie Bedenken hinsichtlich des Einflusses Chinas auf den Inhalt des Programms haben . 	1:2	/person 
+Ältere Beamte des Bildungsministeriums erkennen an , dass die Institute eine wichtige Rolle bei der Förderung der Alphabetisierung in asiatischen Sprachen spielen , sie geben zu , dass sie Bedenken hinsichtlich des Einflusses Chinas auf den Inhalt des Programms haben . 	20:21	/language
+Ältere Beamte des Bildungsministeriums erkennen an , dass die Institute eine wichtige Rolle bei der Förderung der Alphabetisierung in asiatischen Sprachen spielen , sie geben zu , dass sie Bedenken hinsichtlich des Einflusses dieses Landes auf den Inhalt des Programms haben . 	34:35	/government /government/government /location /location/country
+Im Champion Programm sollen den Flüchtlingen soziale Netzwerke aufgebaut werden . 	2:3	/organization
+Die Köchin und Patsey Gibson wurden schwer verletzt . 	1:2	/person
+Lucinda Boddy und die Lehrerin wurden schwer verletzt . 	4:5	/person
+Elena Rey : Burgenführer Pfalz . 	3:5	/written_work
+Laut dem Maler trägt die Beziehung der Gesellschaft zum Mobiltelefon die Anzeichen eines Kults , beziehungsweise sogar einer pathologischen Abhängigkeit . 	2:3	/person /person/artist
+Er begleitete den Kapitän nicht auf seiner dritten Reise , sondern bekam im April 1776 das Kommando über das Schiff Lyon und wurde zur Baffin Bay an der Ostküste Kanadas geschickt . 	3:4	/person
+Er begleitete Cook nicht auf seiner dritten Reise , sondern bekam im April 1776 das Kommando über das Schiff Lyon und wurde zur Baffin Bay an der Ostküste Kanadas geschickt . 	7:8	/event
+Er begleitete Cook nicht auf seiner dritten Reise , sondern bekam in diesem Monat das Kommando über das Schiff Lyon und wurde zur Baffin Bay an der Ostküste Kanadas geschickt . 	13:14	/event
+Er begleitete Cook nicht auf seiner dritten Reise , sondern bekam im April 1776 das Kommando über das Schiff Lyon und wurde zur Baffin Bay an der Ostküste Kanadas geschickt . 	18:19	/product /product/ship
+Er begleitete Cook nicht auf seiner dritten Reise , sondern bekam im April 1776 das Kommando über das Schiff Lyon und wurde zu dieser Bucht an der Ostküste Kanadas geschickt . 	24:25	/location /location/body_of_water
+Er begleitete Cook nicht auf seiner dritten Reise , sondern bekam im April 1776 das Kommando über das Schiff Lyon und wurde zur Baffin Bay an der Ostküste dieses Landes geschickt . 	29:30	/location /location/country 
+Der Film wurde in der Stadt und entlang dem Wild Atlantic Way gedreht . 	5:6	/location /location/city
+Der Film wurde in Cork und entlang dem Wanderweg gedreht . 	8:9	/location
+Die Indie-Rock-Band kehrten Anfang April ins Vereinigte Königreich zurück und spielten im Sommer auf zahlreichen europäischen Festivals . 	1:2	/person /person/musician
+Die Augustines kehrten Anfang des Monats ins Vereinigte Königreich zurück und spielten im Sommer auf zahlreichen europäischen Festivals . 	5:6	/event
+Die Augustines kehrten Anfang April in das Land zurück und spielten im Sommer auf zahlreichen europäischen Festivals . 	7:8	/location /location/country
+Die Augustines kehrten Anfang April ins Vereinigte Königreich zurück und spielten im Sommer auf zahlreichen europäischen Festivals . 	16:17	/event
+Diese Werke sind zu einem gewissen Grad durch ihre frühe Begegnung mit der Kunst des Künstlers beeinflusst . 	15:16	/person /person/artist
+Der Mineraloge engagierte sich weiterhin im SDV . 	1:2	/person
+Schröcke engagierte sich weiterhin in der Stiftung. 	6:7	/organization
+Mit seinen innovativen Arbeiten zur Erforschung der Dynamik von Assetpreisen hat der Ökonom Pionierarbeit im Bereich der Finanzökonomie geleistet . 	12:13	/person /person/author
+Andreas Burow : Die Flakwagen der Regierungszüge der Reichsregierung im Dritten Reich . 	4:5	/product /product/car
+Andreas Burow : Die Flakwagen der Regierungszüge der Reichsregierung im Dritten Reich . 	11:12	/location /location/country
+Nach einer vorläufigen Schätzung starben in der Provinz 123 Menschen , die meisten davon in Acapulco . 	7:8	/location /location/province 
+Nach einer vorläufigen Schätzung starben in Guerrero 123 Menschen , die meisten davon in der Stadt . 	15:16	/location /location/city
+Kongress der IPA 1985 in der Stadt in einer begleitenden Ausstellung vorgestellt , die den selbstreflexiven Prozess nachvollzog . 	6:7	/location /location/city
+So führte z. B. die Anlieferung von Milch aus dem Umland der Stadt zur Gründung mehrerer Milchverarbeitungsbetriebe wie beispielsweise der NÖM . 	12:13	/location /location/city
+So führte z. B. die Anlieferung von Milch aus dem Umland von Wien zur Gründung mehrerer Milchverarbeitungsbetriebe wie beispielsweise des Milchverarbeitungsunternehmens . 	20:21	/organization /organization/company
+Per Gesetz hätten die Kommunalwahlen als Teil der allgemeinen Wahlen 2005 stattfinden sollen , doch durch die daraus resultierenden Unruhen wurden sie verschoben . 	9:10	/event /event/election
+Die Comicfigur will den Zirkus besuchen . 	1:2	/person 
+Die Entscheidung des Präsidenten , Nixon zu begnadigen , war sehr umstritten . 	3:4	/person /person/politician
+Die Entscheidung Fords , den Ex-Präsidenten zu begnadigen , war sehr umstritten . 	5:6	/person /person/politician
+Noch im Krieg erwarb er das Bürgerrecht der Stadt Hannover , verlor es jedoch bald wieder , da er seine Steuerschulden nicht bezahlte . 	8:9	/location /location/city
+Nach seiner Rückkehr war er noch stärker davon überzeugt , ein ähnliches Programm auch in seinem Land zu verwirklichen . 	16:17	/location /location/country
+Aktuelle Veröffentlichungen verwenden weiterhin den Familiennamen Chenopodiaceae . 	6:7	/biology
+Die Volksbank von China war die Zentralbank und die Grundlage des Bankensystems . 	1:2	/organization /organization/company
+Eine Zeit lang arbeitete er als Bankangestellter , aber nach dem Tod seines Vaters 1882 war er schließlich in der Lage , Malerei zu studieren . 	6:7	/person 
+Bekannt wurde der Professor auch für einen Vortrag den er für die Financial Analysts Federation hielt . 	3:4	/person 
+Bekannt wurde Lintner auch für einen Vortrag den er für die Financial Analysts Federation hielt . 	6:7	/event
+Bekannt wurde Lintner auch für einen Vortrag den er für die Föderation hielt . 	11:12	/organization 
+An einer Pressekonferenz erklärte er , sollte Kanada Atomwaffen nicht akzeptieren , würde es seine Verpflichtungen gegenüber der NATO nicht erfüllen . 	4:5	/person
+An einer Pressekonferenz erklärte er , sollte das Land Atomwaffen nicht akzeptieren , würde es seine Verpflichtungen gegenüber der NATO nicht erfüllen . 	8:9	/location /location/country
+An einer Pressekonferenz erklärte er , sollte Kanada Atomwaffen nicht akzeptieren , würde es seine Verpflichtungen gegenüber dem Bündnis nicht erfüllen . 	18:19	/organization
+Der Autor veröffentlicht A Plan for a Music School . 	1:2	/person /person/author
+1 Charles Burney veröffentlicht den Plan . 	5:6	/written_work
+Die Lehrerin und ihre Kollegen trainierten tausende von professionellen Schauspielern . 	1:2	/person
+Viele seiner späteren Werke zeigen europäische Szenen , wohin Eaton als Erwachsener regelmäßig reiste . 	3:4	/art
+Viele seiner späteren Werke zeigen europäische Szenen , wohin der Künstler als Erwachsener regelmäßig reiste . 	10:11	/person /person/artist
+Im Zuge des Verfahrens wurde deutlich , dass hinter dem Angebot ein weit verzweigtes Netzwerk stand , das Verbindungen bis in das Land und nach Australien unterhielt . 	22:23	/location /location/country
+Im Zuge des Verfahrens wurde deutlich , dass hinter dem Angebot ein weit verzweigtes Netzwerk stand , das Verbindungen bis in die USA und in dieses Land unterhielt . 	26:27	/location /location/country
+Viele Flugreisende in diesem Bundesstaat nutzen den Memphis International Airport . 	4:5	/location /location/province
+Viele Flugreisende im östlichen Arkansas nutzen den Flughafen . 	7:8	/building /building/airport /location
+Bis zu diesem Monat stellte die Balfour Beatty Construction alle Ausgrabungen und strukturellen Maßnahmen fertig und die Dachterrasse deckte die gesamte Struktur des CVC ab . 	3:4	/event
+Bis zum Juli 2005 stellte das Bauunternehmen alle Ausgrabungen und strukturellen Maßnahmen fertig und die Dachterrasse deckte die gesamte Struktur des CVC ab . 	6:7	/organization /organization/company
+Bis zum Juli 2005 stellte die Balfour Beatty Construction alle Ausgrabungen und strukturellen Maßnahmen fertig und die Dachterrasse deckte die gesamte Struktur des Gebäudes ab . 	23:24	/building
+Er war Unterstützer des Animal Health Trust , der tierärztlichen Forschungseinrichtung in der Stadt nahe Newmarket . 	13:14	/location /location/city
+Er war Unterstützer des Animal Health Trust , der tierärztlichen Forschungseinrichtung in Lanwades Hall nahe der Stadt . 	16:17	/location /location/city
+Seit um 1500 die Stadtmauer neu errichtet wurde , blieb die Stadt über die Jahrhunderte unverändert . 	4:5	/building
+In diesem Monat wurde ein Exemplar der britischen Mk.II zu Vergleichszwecken in die USA geschickt . 	2:3	/event
+Im April 1942 wurde ein Exemplar der Waffe zu Vergleichszwecken in die USA geschickt . 	7:8	/military
+Im April 1942 wurde ein Exemplar der britischen Mk.II zu Vergleichszwecken in das Land geschickt . 	13:14	/location /location/country
+Wenig später sitzt der Junge endlich im Zug nach Oberhof . 	4:5	/person
+Wenig später sitzt Alexander endlich im Zug in die Stadt . 	9:10	/location /location/city
+Er arbeitete für den Politiker während der Präsidentschaft George H. W. Bushs . 	4:5	/person /person/politician
+Er arbeitete für Jack Kemp während der Präsidentschaft des Präsidenten . 	9:10	/person /person/politician
+Sie hatten Angst vor Repressalien , nachdem sie während der Schlacht um Timor mit den Invasoren kollaboriert hatten . 	15:16	/person /person/soldier
+Sie hatten Angst vor Repressalien , nachdem sie während der Schlacht um Timor mit den Japanern kollaboriert hatten . 	10:11	/event /event/military_conflict
+Lediglich wenige Stücke kehrten in die Stadt zurück . 	6:7	/location /location/city
+In diesem Jahr deckte diese Versicherung 27 % aller Gesundheitskosten . 	2:3	/event
+Im Jahr 2009 deckte diese Versicherung 27 Prozent aller Gesundheitskosten . 	7:8	/finance
+In den 12 Monaten bis März 2014 reisten 14 Millionen Passagiere mit 240.000 Fahrten vom und zum Bahnhof . 	3:4	/event
+In den 12 Monaten bis März 2014 reisten 14 Millionen Passagiere mit 240.000 Fahrten vom und zum Bahnhof . 	10:11	/person
+In den 12 Monaten bis März 2014 reisten 14 Millionen Passagiere mit 240.000 Fahrten vom und zum Bahnhof . 	17:18	/building
+Auch der Tradition des Di Tella Instituts folgend veranstaltet die Universität diverse angesehene Kunstprogramme und Workshops . 	6:7	/organization /organization/educational_institution
+Sein Fokus verschob sich auf die Filmmusik , nachdem ihm der Bayerische Rundfunk einen Job in München anbot . 	12:13	/broadcast_network
+Sein Fokus verschob sich auf die Filmmusik , nachdem ihm der Bayerische Rundfunk einen Job in der Stadt anbot . 	17:18	/location /location/city
+Kambodscha wurde zur Zeit des Königs praktisch wie eine Provinz von Siam verwaltet , da der Rivale Vietnam mit inneren Problemen zu kämpfen hatte . 	5:6	/person /person/monarch
+Das Land wurde zur Zeit von Rama I. praktisch wie eine Provinz von Siam verwaltet , da der Rivale Vietnam mit inneren Problemen zu kämpfen hatte . 	1:2	/location /location/country
+Kambodscha wurde zur Zeit von Rama I. praktisch wie eine Provinz des Landes verwaltet , da der Rivale Vietnam mit inneren Problemen zu kämpfen hatte . 	12:13	/location /location/country
+Kambodscha wurde zur Zeit von Rama I. praktisch wie eine Provinz von Siam verwaltet , da der Nachbarstaat mit inneren Problemen zu kämpfen hatte . 	17:18	/location /location/country
+Das erste Rennen wurde noch als zu leicht empfunden ; die Teilnehmer stimmten gemeinsam über den Sieger ab . 	2:3	/event
+Zur Zeit seiner Ehe mit seiner Frau war er Mitglied für St. Germans . 	6:7	/person
+Zur Zeit seiner Ehe mit Fane war er Mitglied für die Gemeinde . 	11:12	/location
+Für das Praktische Kochbuch hatte der Autor umfangreiche Recherchen betrieben und über einen längeren Zeitraum Rezepte zusammengetragen . 	6:7	/person /person/author
+Es wurde eine Kommission gegründet und deren Mitglied James Blake setzte einen Preis von 150 USD für den Architekten des besten Entwurfes für das neue Statehouse aus . 	7:8	/person 
+Es wurde eine Kommission gegründet und deren Mitglied James Blake setzte einen Preis von 150 USD für den Architekten des besten Entwurfes für das neue Statehouse aus . 	18:19	/person /person/architect
+Nach dem Tod des Dichters sammelte Cao Pi 25 seiner Gedichte und fasste sie in seinem Diskurs über die Literatur zusammen . 	4:5	/person /person/author
+Nach Kong Rongs Tod sammelte der Herausgeber 25 seiner Gedichte und fasste sie in seinem Diskurs über die Literatur zusammen . 	6:7	/person
+Nach Kong Rongs Tod sammelte Cao Pi 25 seiner Gedichte und fasste sie in seinem Diskurs über die Literatur zusammen . 	18:19	/written_work
+Um mehr Druck auf das Land in den Friedensverhandlungen auszuüben , entschied sich Apraxin für einen Angriff auf Stockholm . 	5:6	/government /government/government /location /location/country
+Um mehr Druck auf Schweden in den Friedensverhandlungen auszuüben , entschied sich der Marschall für einen Angriff auf Stockholm . 	13:14	/person /person/soldier
+Um mehr Druck auf Schweden in den Friedensverhandlungen auszuüben , entschied sich Apraxin für einen Angriff auf die Stadt . 	18:19	/location /location/city
+Seine Unterstützung für die Partei und Sendungen im Radio Rom führten zu einer Anklage wegen Verrats . 	4:5	/organization
+Seine Unterstützung für die Faschisten und Sendungen im Radio Rom führten zu einer Anklage wegen Verrats . 	8:9	/broadcast_network
+Der König in der englischen Literatur des späten Mittelalters , Göttingen 1963 . 	1:2	/person /person/monarch
+König Arthur in der englischen Literatur des späten Mittelalters , Göttingen 1963 . 	5:6	/written_work
+Der Kanzler in den USA : Chicago , Deutsche Wochenschau , Dokumentarfilm 1953 . 	1:2	/person /person/politician
+Adenauer in den Staaten : Chicago , Deutsche Wochenschau , Dokumentarfilm 1953 . 	3:4	/location /location/country
+Adenauer in den USA : Chicago , Deutsche Wochenschau , Dokumentarfilm 1953 . 	8:9	/broadcast_program
+Adenauer in den USA : Chicago , Deutsche Wochenschau , Dokumentarfilm 1953 . 	10:11	/art /art/film
+In diesem Jahr illustrierte sie das Bilderbuch Die Gans im Gegenteil von Wolf Haas . 	2:3	/time
+2010 illustrierte sie das Bilderbuch Die Gans im Gegenteil von Wolf Haas . 	4:5	/written_work
+2010 illustrierte sie das Bilderbuch Die Gans im Gegenteil des Schriftstellers . 	10:11	/person /person/author
+Dezember 2012 verkaufte AIG ihre gesamte Beteiligung an AIA in Höhe von 13,69 % . 	0:1	/time
+Dezember 2012 verkaufte der Versicherungskonzern ihre gesamte Beteiligung an AIA in Höhe von 13,69 % . 	4:5	/organization /organization/company
+Dezember 2012 verkaufte AIG ihre gesamte Beteiligung an AIA in Höhe von 13,69 % . 	6:7	/finance
+Dezember 2012 verkaufte AIG ihre gesamte Beteiligung an de Fluggesellschaft in Höhe von 13,69 % . 	9:10	/organization /organization/company
+Sie hatte viele Verehrer , aber erwählte sich nur Vater Wolf aufgrund seiner Stärke und Macht zum Gefährten . 	9:10	/person
+Für Sommer 2017 wurde die Veröffentlichung zweier EPs angekündigt . 	1:2	/event /time
+Für Sommer 2017 wurde die Veröffentlichung zweier EPs angekündigt . 	7:8	/product
+In diesen Jahren lebten Yeats und seine Familie dort ; es war sein Denkmal und Symbol : In beiderlei Hinsicht erfüllte es seinen Wunsch nach einem verwurzelten Ort auf dem Land . 	2:3	/time
+Von 1921 bis 1929 lebten der Dichter und seine Familie dort ; es war sein Denkmal und Symbol : In beiderlei Hinsicht erfüllte es seinen Wunsch nach einem verwurzelten Ort auf dem Land . 	6:7	/person /person/author
+Die Übertragungskapazität der Leitung in den Ortsteil, welche 1976 in Betrieb ging , beträgt 2640 MW . 	6:7	/location /location/city
+Im Zuge der Transformation des Unternehmens 2015 reduzierte des Unternehmens Aufsichtsrat die Anzahl der Vorstandsmitglieder . 	10:11	/organization /organization/company
+Auch hier wieder ist die Illusion vollkommen , es würde sich um ein rein digitale Kopie des Kunstwerkes des Malers handeln . 	19:20	/person /person/artist
+Auch Kriegsminister Albrecht von Roon , der nicht an der Proklamation in Versailles teilnahm , wurde in die dritte Fassung eingebaut . 	1:2	/person /person/politician
+Auch Kriegsminister Albrecht von Roon , der nicht an der Proklamation in dem Verwaltungssitz teilnahm , wurde in die dritte Fassung eingebaut . 	13:14	/location
+Bis etwa 1996 thematisierte der Künstler die Aufhebung von Raumkontinuum und visuelle Vieldeutigkeit radikal abstrakt . 	5:6	/person /person/artist
+Die Nachfrage lag 2008 unter der Woche bei circa 380 Fahrgästen pro Tag und am Sonntag bei circa 950 Fahrgästen pro Tag . 	19:20	/person
+Die Nachfrage lag 2008 unter der Woche bei circa 380 Fahrgästen pro Tag und am Sonntag bei circa 950 Fahrgästen pro Tag . 	6:7	/time
+Die Nachfrage lag 2008 unter der Woche bei circa 380 Fahrgästen pro Tag und am Sonntag bei circa 950 Fahrgästen pro Tag . 	15:16	/time
+Dies wird auch auf kommunalpolitischer Ebene als drohender Verlust eines Teils der bayerischen Identität begriffen ; gegensteuernde Maßnahmen finden daher immer breitere Unterstützung . 	8:9	/event
+Es wird vermutet , dass es sich um den Gott handelt . 	9:10	/god
+Im November und Dezember 1976 marschierten 7.000 Menschen durch australische Städte und protestierten gegen den Uranabbau . 	1:2	/event /time
+2011 siegte sie in der gleichen Disziplin bei den Meisterschaften gemeinsam mit Andhika Anhar . 	9:10	/event /event/sports_event
+2011 siegte sie in der gleichen Disziplin bei den Indonesia International gemeinsam mit dem Badmintonspieler . 	14:15	/person /person/athlete
+Das Volk glaubt , dass die Durchführung der Rituale des Todes ihre Körper ruinieren könnte , wenn sie mit Ritualen des Lebens kombiniert werden . 	1:2	/people /people/ethnicity
+Der Erfinder erwiderte , das mag zutreffen , aber es mache keinen Unterschied . 	1:2	/person /person/engineer
+Die beiden einigten sich darauf , nochmal zum Lager am Fluss zurückzukehren , um zu prüfen , ob Burke vielleicht doch zurückgekommen war . 	10:11	/location /location/body_of_water
+Die beiden einigten sich darauf , nochmal zum Lager am Cooper Creek zurückzukehren , um zu prüfen , ob der Mann vielleicht doch zurückgekommen war . 	20:21	/person
+Die Organisation wurde im März 1921 mit der Forderung zur Schaffung einer separaten Abchasischen Sowjetrepublik gegründet . 	1:2	/organization
+Die KPA wurde im März 1921 mit der Forderung zur Schaffung einer separaten Abchasischen Sowjetrepublik gegründet . 	4:5	/time
+Die KPA wurde im März 1921 mit der Forderung zur Schaffung einer separaten Abchasischen Sowjetrepublik gegründet . 	14:15	/location /location/country
+Die Produktion des Wagens endete im Juni 2012 . 	3:4	/product /product/car
+Die Produktion des Mitsubishi Pajero Mini endete im Juni 2012 . 	8:9	/time
+Insgesamt sind 3.732 Arbeitnehmer auf dem 233 Hektar großen Gelände für den Automobilhersteller tätig . 	12:13	/organization /organization/company
+1977 hatte der Konzern 10 % der schwedische Hotelbetten aber 25 % Marktanteil . 	3:4	/organization /organization/company
+Mitte 2007 hatte der Sender jedoch nur 1,1 Millionen zahlende Kunden , was große Verluste bedeutete . 	3:4	/broadcast_network
+Mitte 2007 hatte der Sender jedoch nur 1,1 Millionen zahlende Kunden , was große Verluste bedeutete . 	14:15	/finance 
+Und der Mann war im Leib des Fisches drei Tage und drei Nächte . 	2:3	/person
+Und Jona war im Leib des Fisches drei Tage und drei Nächte . 	11:12	/time
+Bei den Wahlen 1998 gewannen die Grünen nur noch einen Sitz , obwohl ihr Wähleranteil nur leicht gesunken war , hauptsächlich also wegen des neuen Wahlsystems . 	2:3	/event /event/election
+Bei den Wahlen 1998 gewannen die Partei nur noch einen Sitz , obwohl ihr Wähleranteil nur leicht gesunken war , hauptsächlich also wegen des neuen Wahlsystems . 	6:7	/organization /government /government/political_party
+Drei bemalte Holzskulpturen und mehrere Grafiken wurden auf der Biennale 1969 Nürnberg ausgestellt . 	9:10	/event
+Die Feuerordnung aus dem Jahr 1838 fixierte erneut die wichtige Rolle der Bächle . 	1:2	/written_work /law
+Die Feuerordnung aus dem Jahr 1838 fixierte erneut die wichtige Rolle des Bachs . 	12:13	/location /location/body_of_water
+Artikel 2 : Die Hoheitszeichen der Wehrmacht bleiben unberührt . 	6:7	/organization /military
+Das Stellwerk Hsh ging mit der Verlängerung ebenfalls in Betrieb . 	2:3	/product
+1953 arbeitete J.O.B. zeitweise mit der Plattenfirma zusammen . 	6:7	/organization /organization/company
+1953 arbeitete die Band zeitweise mit Chance Records zusammen . 	3:4	/person /person/artist
+Die Person erlitt Verbrennungen zweiten und dritten Grades an mehr als 80 % seines Körpers und wurde in kritischem Zustand in ein Krankenhaus geflogen . 	1:2	/person
+Roberts erlitt Verbrennungen zweiten und dritten Grades an mehr als 80 % seines Körpers und wurde in kritischem Zustand in ein Krankenhaus geflogen . 	2:3	/medicine /disease /medicine/symptom
+Der Prolog des 1999 erschienenen Buches Back to the Moon von Homer Hickam beginnt mit einer dramatisierten Darstellung des Endes des zweiten Apollo 17 EVA . 	1:2	/written_work
+Der Prolog des 1999 erschienenen Buches Back to the Moon von Homer Hickam beginnt mit einer dramatisierten Darstellung des Endes des zweiten Apollo 17 EVA . 	5:6	/written_work
+Der Prolog des 1999 erschienenen Buches Back to the Moon des Schriftstellers beginnt mit einer dramatisierten Darstellung des Endes des zweiten Apollo 17 EVA . 	11:12	/person /person/author
+1937 entwickelte die Frau das erste Designerparfüm : Schocking for Schiaparelli . 	3:4	/person
+1937 entwickelte Roure das erste Designerparfüm : Schocking for Schiaparelli . 	5:6	/product
+Furcht : Der Politiker im Weißen Haus . 	3:4	/person /person/politician
+Die neue Version diente auch als zweite Single aus dem Soundtrack von Austin Powers in Goldständer . 	7:8	/music
+Die neue Version diente auch als zweite Single aus dem Soundtrack von Austin Powers in Goldständer . 	10:11	/music
+Die neue Version diente auch als zweite Single aus dem Soundtrack von Austin Powers in dem Kinofilm . 	16:17	/art /art/film
+Der Begriff Eurodistrikt / eurodistrict ist erst jüngeren Datums und noch nicht von Organisationen wie dem Europarat oder der Europäischen Union definiert . 	13:14	/organization 
+Der Cajun­musiker erschien mit Dewey Balfa und die Balfa Brothers auf dem Newport Folk Festival 1967 . 	1:2	/person /person/artist
+Er erschien mit Dewey Balfa und die Balfa Brothers auf dem Newport Folk Festival 1967 . 	13:14	/event 
+Der Spion beschrieb auch , wie man Feuer in industriellen Anlagen legen könne . 	1:2	/person
+Das Video endet mit Azalea und Charli XCX in der Schule . 	10:11	/organization /organization/educational_institution 
+Die Entdecker stellen fest , dass die Insulaner Enkel und Urenkel von George Pine sind und in nur drei Generationen die technologischen und industriellen Vorteile ihrer britischen Herkunft verloren haben . 	1:2	/person
+Die Entdecker stellen fest , dass die Insulaner Enkel und Urenkel von George Pine sind und in nur drei Generationen die technologischen und industriellen Vorteile ihrer britischen Herkunft verloren haben . 	8:9	/person
+Mehr als ein Prinz namens Nayan existierte und ihre Identität ist verwirrend ; der Historiker Pelliot war der Meinung , dass der christliche Prinz Nayan kein Nachkomme von Belgutai war . 	3:4	/person /person/monarch
+Mehr als ein Prinz namens Nayan existierte und ihre Identität ist verwirrend ; der Historiker Pelliot war der Meinung , dass der christliche Prinz Nayan kein Nachkomme von Belgutai war . 	14:15	/person
+Mehr als ein Prinz namens Nayan existierte und ihre Identität ist verwirrend ; der Historiker Pelliot war der Meinung , dass der christliche Prinz Nayan kein Nachkomme von Belgutai war . 	22:23	/religion /religion/religion
+Mehr als ein Prinz namens Nayan existierte und ihre Identität ist verwirrend ; der Historiker Pelliot war der Meinung , dass der christliche Prinz Nayan kein Nachkomme von Belgutai war . 	26:27	/person 
+Zwei der fünf in den ersten acht Monaten des Jahres 1942 gegen niederländische Zeitungen ausgesprochene Ordnungsstrafen wurden gegen die DZN verhängt . 	13:14	/written_work
+Zwei der fünf in den ersten acht Monaten des Jahres 1942 gegen niederländische Zeitungen ausgesprochene Ordnungsstrafen wurden gegen die DZN verhängt . 	7:8	/event /time
+Zwei der fünf in den ersten acht Monaten des Jahres 1942 gegen niederländische Zeitungen ausgesprochene Ordnungsstrafen wurden gegen das Unternehmen verhängt . 	19:20	/organization /organization/company
+Ein Beispiel ist die Reaktion von Acetaldehyd und Ammoniak : Ca. 8000 t wurden weltweit im Jahr 1989 hergestellt . 	6:7	/chemistry
+Ein Beispiel ist die Reaktion von Acetaldehyd und Ammoniak : Ca. 8000 t wurden weltweit im Jahr 1989 hergestellt . 	4:5	/chemistry
+Dieses modulare System kam kurze Zeit später auch beim Cannstatter Volksfest zum Einsatz , jedoch nicht als Fußgängerweg , sondern als 30 m breite Fluchttreppe . 	10:11	/event
+Weitere Folgen liefen unter dem Titel Geschichten mit Philipp Sonntag und seinem Traummobil , Kern und Schwarz , Felix und Bruder Tom . 	6:7	/written_work
+Weitere Folgen liefen unter dem Titel Geschichten mit Philipp Sonntag und seinem Traummobil , Kern und Schwarz , Felix und Bruder Tom . 	20:21	/person
+Lord Poulett , ein Royalist , nahm die Burg kurz nach dem Ausbruch der Kämpfe ein . 	4:5	/person
+Lord Poulett , ein Royalist , nahm die Burg kurz nach dem Ausbruch der Kämpfe ein . 	8:9	/building
+Mai 1902 eingeführte Schema war relativ simpel aufgebaut : Einstellige Nummern waren den Ringlinien vorbehalten , zweistellige für die übrigen Linien . 	0:1	/time /event
+Die napoleonische Reform vom Februar des Jahres , die im Mai 1800 in Kraft trat , formte die Verwaltungsstruktur zu einer zentralistisch und hierarchisch geprägten Organisation . 	2:3	/event 
+Die napoleonische Reform vom Februar des Jahres , die im Mai 1800 in Kraft trat , formte die Verwaltungsstruktur zu einer zentralistisch und hierarchisch geprägten Organisation . 	4:5	/event /time
+Die napoleonische Reform vom Februar des Jahres , die im Mai 1800 in Kraft trat , formte die Verwaltungsstruktur zu einer zentralistisch und hierarchisch geprägten Organisation . 	25:26	/organization
+Auszug von der Demining Research website . 	3:5	/internet/website
+Dyan Cannon spielt Madie Levrington , eine Frau , die wohlhabend , aber auch neurotisch ist . 	7:8	/person
+In der Zwischenzeit zettelte der Physiker eine Kampagne gegen Davy und die Royal Society in der Zeitung The Times an . 	5:6	/person
+In der Zwischenzeit zettelte Herapath eine Kampagne gegen den Rennfahrer und die Royal Society in der Zeitung The Times an . 	9:10	/person 
+In der Zwischenzeit zettelte Herapath eine Kampagne gegen Davy und die Royal Society in der Zeitung The Times an . 	16:17	/news_agency /written_work
+Jahrhundert gibt es in der Gemeinde eine Pfarrei . 	5:6	/location /location/city
+Während ihres kurzen Lebens drängte The Revolution , die wöchentliche Zeitung der National Association , häufig auf Reformen zugunsten von Arbeiterinnen . 	9:10	/written_work
+Während ihres kurzen Lebens drängte The Revolution , die wöchentliche Zeitung der National Association , häufig auf Reformen zugunsten von Arbeiterinnen . 	20:21	/person
+Von dort aus unterstützte er weiterhin die chinesische Demokratiebewegung und leitete 2011 weitere demokratische Proteste . 	8:9	/organization
+Von dort aus unterstützte er weiterhin die chinesische Demokratiebewegung und leitete 2011 weitere demokratische Proteste . 	14:15	/event /event/protest
+Die Gedanken von Morris hatten großen Einfluss auf den Kreationismus und auf die fundamentalistische Christenheit . 	14:15	/religion 
+Auch die Akquisition von Spenden für die Wiedererrichtung der historischen Fassaden und den Bau des Humboldt Forums zählt zu den Aufgaben der Stiftung . 	16:17	/location /building
+Auch die Akquisition von Spenden für die Wiedererrichtung der historischen Fassaden und den Bau des Humboldt Forums zählt zu den Aufgaben der Stiftung . 	22:23	/organization
+Januar 2016 waren die Foren noch nicht verfügbar . 	0:1	/time /event
+Drei Jahre nachdem er in die New Yorker Firma des Ingenieurs Fred Severud eingetreten war , wurde er sein gleichberechtigter Partner . 	8:9	/organization /organization/company
+Drei Jahre nachdem er in die New Yorker Firma des Ingenieurs Fred Severud eingetreten war , wurde er sein gleichberechtigter Partner . 	10:11	/person /person/engineer
+Drei Jahre nachdem er in die New Yorker Firma des Ingenieurs Fred Severud eingetreten war , wurde er sein gleichberechtigter Partner . 	20:21	/person
+1974 fusionierten die Versicherung und die Helvetia Allgemeine dann zur Helvetia Feuer . 	3:4	/organization /organization/company
+Auch der Spracherwerb basiert offenbar auf pränatalem Lernen , wie die bekannte Studie von DeCasper und Fifer aus dem Jahr 1980 nahelegt . 	12:13	/written_work
+Als er in die USA zurückkehrte , schlug er vor , dass die anderen Mitglieder der Gruppe die Uniformen tragen , welche die hauptsächlich vertreten Berufsgruppen in New Yorks Greenwich Village darstellen . 	14:15	/person
+Als er in die USA zurückkehrte , schlug er vor , dass die anderen Mitglieder der Gruppe die Uniformen tragen , welche die hauptsächlich vertreten Berufsgruppen in New Yorks Greenwich Village darstellen . 	18:19	/product
+Die vietnamesische Unterstützung für den Aufstand verunmöglichte es der ineffizienten und schlecht motivierten königlichen kambodschanischen Armee , erfolgreich dagegen vorzugehen . 	5:6	/event /event/protest
+Die vietnamesische Unterstützung für den Aufstand verunmöglichte es der ineffizienten und schlecht motivierten königlichen kambodschanischen Armee , erfolgreich dagegen vorzugehen . 	15:16	/military /organization
+Mawazine ist eine von mehreren Veranstaltungen , die das Image Marokkos als tolerante Nation fördern sollen , und ein Beitrag auf der Website der Veranstaltung erklärt , dass das Ziel des Festivals darin besteht , Rabat als eine der Welt offene Stadt zu bewerben . 	5:6	/event
+Mawazine ist eine von mehreren Veranstaltungen , die das Image Marokkos als tolerante Nation fördern sollen , und ein Beitrag auf der Website der Veranstaltung erklärt , dass das Ziel des Festivals darin besteht , Rabat als eine der Welt offene Stadt zu bewerben . 	13:14	/location /location/country
+Mawazine ist eine von mehreren Veranstaltungen , die das Image Marokkos als tolerante Nation fördern sollen , und ein Beitrag auf der Website der Veranstaltung erklärt , dass das Ziel des Festivals darin besteht , Rabat als eine der Welt offene Stadt zu bewerben . 	31:32	/event
+Auf jeder Seite trägt sie vier Chinesische Schriftzeichen , welche die Signatur des Großen Königs von China sind . 	7:8	/written_work
+Auf jeder Seite trägt sie vier Chinesische Schriftzeichen , welche die Signatur des Großen Königs von China sind . 	14:15	/person /person/monarch
+Basierend auf dem Konzept der kostenlosen Tageszeitung Metro zielte sie auf ein junges , städtisches und mobiles Publikum ab . 	6:7	/written_work
+Basierend auf dem Konzept der kostenlosen Tageszeitung Metro zielte sie auf ein junges , städtisches und mobiles Publikum ab . 	17:18	/person
+März 2011 führte der nun regierende Oberste Rat der Streitkräfte das Politische Parteiengesetz ein , welche Restriktionen über die legale Etablierung neuer Parteien in Ägypten lockert . 	1:2	/time /event
+März 2011 führte der nun regierende Oberste Rat der Streitkräfte das Politische Parteiengesetz ein , welche Restriktionen über die legale Etablierung neuer Parteien in Ägypten lockert . 	7:8	/government /government/political_party 
+März 2011 führte der nun regierende Oberste Rat der Streitkräfte das Politische Parteiengesetz ein , welche Restriktionen über die legale Etablierung neuer Parteien in Ägypten lockert . 	22:23	/government /government/political_party
+Im März 2003 verhängte der Stadtrat einen Bann für neue Cardrooms , ließ das 11th Frame jedoch außen vor . 	1:2	/event /time
+Im März 2003 verhängte der Stadtrat einen Bann für neue Cardrooms , ließ das  Restaurant jedoch außen vor . 	14:15	/organization
+Das Rennmotorrad wurden zwischen November 1962 und Januar 1963 noch produziert . 	1:2	/product /product/car
+42 Norton Manx wurden zwischen November 1962 und Januar 1963 noch produziert . 	5:6	/event 
+Von seinen vielzähligen Büchern sind nur Fragmente erhalten geblieben , etwa von seiner Geschichte der christlichen Kirche und seiner Polemik gegen Kaiser Julian . 	15:16	/religion /religion/religion
+Von seinen vielzähligen Büchern sind nur Fragmente erhalten geblieben , etwa von seiner Geschichte der christlichen Kirche und seiner Polemik gegen Kaiser Julian . 	21:22	/person /person/monarch
+Cheng war ein Pionier der chinesischen Nukleartechnik und spielte eine wichtige Rolle bei der Entwicklung der ersten chinesischen Atombombe . 	3:4	/person
+Cheng war ein Pionier der chinesischen Nukleartechnik und spielte eine wichtige Rolle bei der Entwicklung der ersten chinesischen Atombombe . 	18:19	/product /product/weapon
+Unter den Serienfahrzeugen hat er zusammen mit Walter de Silva die jüngste Generation von VW Fahrzeugen designt . 	2:3	/train
+Unter den Serienfahrzeugen hat er zusammen mit Walter de Silva die jüngste Generation von VW Fahrzeugen designt . 	14:15	/product
+Der Wissenschaftstheoretiker nannte diese Position den trustee of the public . 	1:2	/person
+Er leitete auch die offizielle afghanische Delegation nach Baikonur , in seiner Position als Kommunikationsminister und Mitglied des regierenden Politbüros . 	6:7	/person
+Er leitete auch die offizielle afghanische Delegation nach Baikonur , in seiner Position als Kommunikationsminister und Mitglied des regierenden Politbüros . 	16:17	/person
+Er leitete auch die offizielle afghanische Delegation nach Baikonur , in seiner Position als Kommunikationsminister und Mitglied des regierenden Politbüros . 	19:20	/government 
+Der Papst feierte eine Messe vor einer Million Menschen im Phoenix Park in Dublin . 	1:2	/person /person/religious_leader
+Der Papst feierte eine Messe vor einer Million Menschen im Phoenix Park in Dublin . 	4:5	/event
+Der Papst feierte eine Messe vor einer Million Menschen im Phoenix Park in Dublin . 	11:12	/park 
+Sein Nachfolger und ab 2000 erster Präsident war bis 2013 Dieter Wiedemann . 	1:2	/person
+Sein Nachfolger und ab 2000 erster Präsident war bis 2013 Dieter Wiedemann . 	6:7	/person /person/politician 
+Die Sekretärin wies darauf hin , dass die britische Botschaft am Merrion Square , die durch einen Brand beschädigt worden war , sehr wohl restauriert worden war . 	1:2	/person
+Marie Avis Walker wies darauf hin , dass die britische Botschaft am Merrion Square , die durch einen Brand beschädigt worden war , sehr wohl restauriert worden war . 	10:11	/location /building
+Ein weiteres Jahrzehnt später begann Stahl das Eisen als Schiffbaumaterial zu ersetzen . 	5:6	/product
+42 ist das erste Werk des  Malers , der 28 Jahre alt war , als er es 1734 für Niklaus Jenner entwarf . 	6:7	/person /person/artist
+Die Stiftung hatte großen Einfluss auf das musikalische Leben in Paris bis zum Ersten Weltkrieg . 	1:2	/organization
+Die Stiftung hatte großen Einfluss auf das musikalische Leben in Paris bis zum Ersten Weltkrieg . 	14:15	/event /event/military_conflict
+Das Harwell Labor enthielt daraufhin Elemente von beiden Organisationen , obwohl das Land und die Infrastruktur durch UKAEA gehörte . 	8:9	/organization /organization/company
+Die Umweltbewertung der Stufe 2 wurde im Dezember 2004 ausgesetzt . 	7:8	/event
