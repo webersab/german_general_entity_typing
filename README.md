@@ -17,7 +17,7 @@ This repository contains code for the following paper:
 # Setup
 This code can be used to assign FIGER types to general entities in German. This can be used as a stand-alone solution to German entity typing, but we recommend to use the output as training data for Chen et al. (2020)'s hierarchical typing system. For more details, consult the paper.
 
-1. Create a virtual environment using the requirements.txt file.
+1. Create a virtual environment using the requirements.txt file. The python version is 3.6.
 2. Setup pygermanet (https://pypi.org/project/pygermanet/)
 3. Your input file has to be sentence-split German text, one line per sentence.
 4. Modify the input and output file name in preparing_german_silver_data.py 
